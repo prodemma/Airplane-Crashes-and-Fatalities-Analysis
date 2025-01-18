@@ -20,4 +20,4 @@ This dataset showcases Boeing 707 accidents that have occurred since 1948. The d
 -Most crashes occurred on Thursdays with a total of 818 crashes 
 
  📝Recommendation
-The Douglas DC-3 aircraft should be checked for airworthiness for all airlines and those faulty, retired. Flights during the winter should be avoided except in emergency situations.  Geographic Risk Assessments should be taken for countries like Bogota-Colombia, Kunming-China and Sao Paulo-Brazil. This will no doubt reduce the chances of accidents in air travels.  
+- The Douglas DC-3 aircraft should be checked for airworthiness for all airlines and those faulty, retired. Flights during the winter should be avoided except in emergency situations.  Geographic Risk Assessments should be taken for countries like Bogota-Colombia, Kunming-China and Sao Paulo-Brazil. This will no doubt reduce the chances of accidents in air travels.  
